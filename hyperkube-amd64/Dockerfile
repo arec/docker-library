@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/hyperkube-amd64:v1.4.6
+FROM gcr.io/google_containers/hyperkube-amd64:v1.5.0-beta.2
 MAINTAINER arec <arec@163.com>
