@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-addon-manager-amd64:v6.0
+FROM gcr.io/google_containers/kube-dnsmasq-amd64:1.4
 MAINTAINER mritd <mritd@mritd.me>
